@@ -1,0 +1,6 @@
+stage,users,conversion_rate,drop_off_%
+landing_page,10000,,
+signup_started,2515,0.2515,74.85
+signup_completed,449,0.17852882703777337,82.14711729622266
+email_verified,36,0.0801781737193764,91.98218262806236
+subscription_paid,14,0.3888888888888889,61.111111111111114
